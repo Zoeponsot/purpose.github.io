@@ -1,0 +1,71 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Calibri', sans-serif;
+}
+
+.hero {
+    background-image: url('https://www.cruelpancake.com/cdn/shop/files/Cruel_black_4ec1b648-0f5e-4935-b431-089ed79fe4ee.png?v=1686253146');
+    background-size: 70%;
+    color: rgba(57, 40, 40, 0);
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.hero p {
+    font-size: 1.2em;
+}
+
+.hero .cta {
+    background: black;
+    color: rgba(246, 186, 255, 0.709);
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.product-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.card {
+    width: 300px;
+    background: #f3f3f3; /* Beige clair */
+    padding: 15px;
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.footer {
+    background: #e0e0e0;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.social-media {
+    margin-top: 20px;
+}
+
+.social-media img {
+    width: 32px;
+    height: 32px;
+}

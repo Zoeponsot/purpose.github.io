@@ -1,0 +1,8 @@
+.hero .cta {
+    background: black;
+    color: rgba(246, 186, 255, 0.709);
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+}
